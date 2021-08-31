@@ -5,7 +5,7 @@ This repository is where some (smaller) datasets for our course will be help.
 To load a file, say titanic.csv, the following code should be run.
 
     import pandas as pd
-    url = 'https://github.com/sgeinitz/cs39aa_data/titanic.csv'
+    url = "https://raw.githubusercontent.com/sgeinitz/cs39aa_data/main/houseprices.csv"
     df = pd.read_csv(url)
 
 The datasets currently in the repository and their sources are:
