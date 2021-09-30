@@ -12,3 +12,4 @@ The datasets currently in the repository and their sources are:
 
 1. Titanic - https://www.kaggle.com/c/titanic/data
 2. House Prices - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+3. Surnames - https://github.com/joosthub/PyTorchNLPBook/tree/master/data
